@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guydo Ventura (4Ventz)!</h1>
-<h3 align="center">Future top gamedev from Brazil!</h3>
+<h3 align="center">Front-end explorer and game dev. wannabe!</h3>
 
 - :seedling: I’m currently learning **C, Unity, html and Css**
 
