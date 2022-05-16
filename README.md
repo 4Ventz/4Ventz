@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guydo Ventura (4Ventz)!</h1>
 <h3 align="center">Front-end explorer and game dev. wannabe!</h3>
 
-- :seedling: I’m currently learning **C, Unity, html and Css**
+- :seedling: I’m currently learning **C, .NET, html and Css**
 
 - :point_right: All of my projects are available at [https://github.com/4Ventz?tab=repositories](https://github.com/4Ventz?tab=repositories)
 
