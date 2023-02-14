@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guydo Ventura (4Ventz)!</h1>
 <h3 align="center">Future gamedev from Brazil!</h3>
 
-- :seedling: I’m currently learning **C#, .Net, Unity**
+- :seedling: I’m currently learning **C#, flutter, dart, unity**
 
 - :point_right: All of my projects are available at [https://github.com/4Ventz?tab=repositories](https://github.com/4Ventz?tab=repositories)
 
